@@ -1,1 +1,1 @@
-# Mid-Term-2024_Computer-vision
+Computer Vision Course Work Repository
